@@ -1,5 +1,5 @@
-contador = 0
+i = 0
 
-while contador<21:
-    print(contador)
-    contador = contador + 1
+for i in range(0,21):
+    print(i)
+    i = i + 1
